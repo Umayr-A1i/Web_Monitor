@@ -13,7 +13,7 @@ websites_list = [
         "url": "https://google.com/nothere",
         "string_to_match": "Google"
     },{
-        "url": "https://www.terahost.co.uk/",
+        "url": "https://www.terahost.co.uk",
         "string_to_match": "Support"
     }
 ]
