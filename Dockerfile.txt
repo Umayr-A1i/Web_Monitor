@@ -15,3 +15,5 @@ COPY monitoring_requests.py .
 
 # Run the script when the container launches
 CMD ["python", "monitoring_requests.py"]
+
+Test
