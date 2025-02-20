@@ -73,3 +73,6 @@ for website in websites_list:
             print(found_message)
             # Send the found message to Discord
             send_discord_notification(found_message)
+
+            # Print a blank line for readability
+        
