@@ -1,0 +1,7 @@
+version: "3.11"
+services:
+  python-app:
+    image: python-script
+    build: .
+    container_name: python-container
+    restart: unless-stopped
