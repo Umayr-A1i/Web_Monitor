@@ -73,6 +73,3 @@ for website in websites_list:
             print(found_message)
             # Send the found message to Discord
             send_discord_notification(found_message)
-
-            #test to see if the git hub commit is working 
-    
