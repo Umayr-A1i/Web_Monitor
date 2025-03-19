@@ -2,7 +2,7 @@
 import requests
 
 # Discord webhook URL (replace with your actual webhook URL)
-WEBHOOK_URL = 'https://discord.com/api/webhooks/1339212805026349089/2ECYQF4SAb7SLnF-UgRGqrgwrPLGGl0gtIESdFK45nxuEcHj2zJZvhxRHMTs56idTxTJ'
+WEBHOOK_URL = 
 
 # List of websites to check, each with a URL and a string to search for in the content
 websites_list = [
